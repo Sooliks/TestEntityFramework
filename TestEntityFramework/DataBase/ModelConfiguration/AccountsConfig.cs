@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using TestEntityFramework.DataBase.Models;
+using TestEntityFramework.DataBase;
 
 namespace TestEntityFramework.DataBase.ModelConfiguration
 {
